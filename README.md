@@ -1,7 +1,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GabrielCF10)
 ### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, my name is Gabriel Carvalho
 
-[![Gmail Badge](https://img.shields.io/badge/-docs.gabrielcarvalhoc100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:docs.mtamaral@gmail.com)](mailto:docs.mtamaral@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-gabrielcarvalhoc100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcarvalhoc100@gmail.com)](mailto:gabrielcarvalhoc100@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCF10&theme=dark) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCF10&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
