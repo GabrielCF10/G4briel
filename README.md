@@ -7,7 +7,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielCF10&count_private=true&show_icons=true&include_all_commits=true&theme=dark) 
 
 ### About me
-Currently an Computer Science student at Universidade Federal de Lavras ([UFLA](https://ufla.br/) , Brazil) since 2022. I'm interested in biology, chemistry, biotechnology and programming.
+Currently an Information Systems student at Universidade de São Paulo ([USP](https://www5.usp.br) , Brazil) since 2022. 
 
 
 
