@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=GabrielCF10)
+
 ### Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, my name is Gabriel Carvalho
 
 [![Gmail Badge](https://img.shields.io/badge/-gabrielcarvalhoc100@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielcarvalhoc100@gmail.com)](mailto:gabrielcarvalhoc100@gmail.com)
