@@ -1,5 +1,5 @@
 
-## :woman_technologist: Hey there, my name is Gabriel Carvalho :woman_technologist:
+## man_technologist: Hey there, my name is Gabriel Carvalho :man_technologist:
  Currently an Information Systems student at Universidade de São Paulo ([USP](https://www5.usp.br) , Brazil) since 2022. 
 <div align="center">
 
